@@ -8,6 +8,7 @@ CONTENIDO
 
 **1.1**         **OBTENCIÓN DE LICENCAS**         2
 
+<<<<<<< HEAD
 **1.2**         **OBJETIVO**         2
 
 **1.3**         **PROPÓSITO**         2
@@ -141,3 +142,10 @@ La DGTIC pone a su disposición tanto un correo como una línea telefónica para
 Teléfono: 3 29 70 00 ext. 2101
 
 Lunes a viernes de 9:00 a 16:00 hrs.
+=======
+    mkdocs.yml    # The configuration file.
+    docs/
+        index.md  # The documentation homepage.
+        ...       # Other markdown pages, images and other files.
+··Test
+>>>>>>> parent of 68fd155... update
